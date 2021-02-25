@@ -1,0 +1,16 @@
+F:\DIO\app de cadastro\MARCELO.Series\obj\Debug\net5.0\MARCELO.Series.csprojAssemblyReference.cache
+F:\DIO\app de cadastro\MARCELO.Series\obj\Debug\net5.0\MARCELO.Series.GeneratedMSBuildEditorConfig.editorconfig
+F:\DIO\app de cadastro\MARCELO.Series\obj\Debug\net5.0\MARCELO.Series.AssemblyInfoInputs.cache
+F:\DIO\app de cadastro\MARCELO.Series\obj\Debug\net5.0\MARCELO.Series.AssemblyInfo.cs
+F:\DIO\app de cadastro\MARCELO.Series\obj\Debug\net5.0\MARCELO.Series.csproj.CoreCompileInputs.cache
+F:\DIO\app de cadastro\MARCELO.Series\bin\Debug\net5.0\MARCELO.Series.exe
+F:\DIO\app de cadastro\MARCELO.Series\bin\Debug\net5.0\MARCELO.Series.deps.json
+F:\DIO\app de cadastro\MARCELO.Series\bin\Debug\net5.0\MARCELO.Series.runtimeconfig.json
+F:\DIO\app de cadastro\MARCELO.Series\bin\Debug\net5.0\MARCELO.Series.runtimeconfig.dev.json
+F:\DIO\app de cadastro\MARCELO.Series\bin\Debug\net5.0\MARCELO.Series.dll
+F:\DIO\app de cadastro\MARCELO.Series\bin\Debug\net5.0\ref\MARCELO.Series.dll
+F:\DIO\app de cadastro\MARCELO.Series\bin\Debug\net5.0\MARCELO.Series.pdb
+F:\DIO\app de cadastro\MARCELO.Series\obj\Debug\net5.0\MARCELO.Series.dll
+F:\DIO\app de cadastro\MARCELO.Series\obj\Debug\net5.0\ref\MARCELO.Series.dll
+F:\DIO\app de cadastro\MARCELO.Series\obj\Debug\net5.0\MARCELO.Series.pdb
+F:\DIO\app de cadastro\MARCELO.Series\obj\Debug\net5.0\MARCELO.Series.genruntimeconfig.cache
